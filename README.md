@@ -1,2 +1,9 @@
 # Docker-for-full-stack-application
-Dockerization of an full stack app
+
+## Task 1
+
+Try to dockerize a react web app
+
+## Task 2
+
+Try to dockerize a python api
